@@ -8,3 +8,8 @@ node_modules/
 .next/
 .env*.local
 .DS_Store
+
+# Lockfiles - managed by vercel.json installCommand
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
